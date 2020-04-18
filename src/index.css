@@ -14,7 +14,7 @@ code {
 }
 
 .todo-list {
-	background-color: white;
+	background-color: gray;
 	border: 1px #fefefe;
 	flex-direction: column;
 	display: flex;
